@@ -21,7 +21,13 @@ threshold: 7
 # This can be empty, which just return a full list of papers with no judgement or filtering,
 # in whatever order arXiv responds with.
 interest: |
-  1. Large language model pretraining and finetunings
+  1. Large language model pretraining and fine-tuning
   2. Multimodal machine learning
-  3. Do not care about specific application, for example, information extraction, summarization, etc.
-  4. Not interested in paper focus on specific languages, e.g., Arabic, Chinese, etc.
+  3. Efficient training techniques (e.g., sparsity, pruning, quantization)
+  4. Transformer architectures and advancements
+  5. Zero-shot and few-shot learning in LLMs
+  6. Addressing LLM biases and hallucinations
+  7. Optimization techniques for large-scale models
+  8. Model interpretability and explainability
+  9. Do not care about specific applications like information extraction, summarization, etc.
+  10. Interested in papers focused on foundational advancements and theoretical insights
